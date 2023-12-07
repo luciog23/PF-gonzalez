@@ -1,5 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
 .navbar {
   background-color: green !important; }
+
+.navbar img {
+  width: 50px; }
 
 .nav-link {
   color: white !important;

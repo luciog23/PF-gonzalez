@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.navbar{
+    background-color: green !important ;
+}
+
+.navbar img{
+    width: 50px;
+}
+.nav-link{
+color: white !important;
+font: bold;
+    }
+
+.jumbotron{
+height: 250px;
+background-image: url(../imagenes/imagen1.jpg);
+background-size: cover;
+background-position: center;
+    }
+
+h2{
+    text-align: center;
+    background-color: $verde;
+    padding: 15px;
+    color: white;
+    margin-bottom: 0;
+}
+
+.nleft{
+    height: 300px;
+    background-image: url(../imagenes/imagen1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.novedades article{
+    background-color: $verdeclaro;
+    border: 3px solid $blanco;
+    text-align: center;
+}
+.novedades .car-img{
+    font-size: 35px;
+}
+.novedades{
+    color: $negro;
+}
+
+footer{
+    text-align: center;
+    background-color: $verde;
+    color: $blanco;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+footer a{
+    color: $blanco;
+    text-decoration: none;
+    font-size: 35px;
+    letter-spacing: 15px;
+}

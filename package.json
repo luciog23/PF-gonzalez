@@ -13,9 +13,5 @@
     "url": "(https://github.com/luciog23/PF-gonzalez.git)"
   },
   "author": "Lucio Gonzalez",
-  "license": "ISC",
-  "devDependencies": {
-    "node-sass": "^9.0.0",
-    "nodemon": "^3.0.2"
-  }
+  "license": "ISC"
 }
