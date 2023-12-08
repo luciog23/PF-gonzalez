@@ -33,7 +33,7 @@ h2{
 
 .nleft{
     height: 300px;
-    background-image: url(../imagenes/imagen1.jpg);
+    background-image: url(../imagenes/eventodestacado.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -43,8 +43,29 @@ h2{
     border: 3px solid $blanco;
     text-align: center;
 }
-.novedades .car-img{
-    font-size: 35px;
+.novedades .card-img1{
+    height: 300px;
+    background-image: url(../imagenes/novedad1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.novedades .card-img2{
+    height: 300px;
+    background-image: url(../imagenes/novedad2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.novedades .card-img3{
+    height: 300px;
+    background-image: url(../imagenes/novedad3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.novedades .card-img4{
+    height: 300px;
+    background-image: url(../imagenes/novedad4.jpg);
+    background-size: cover;
+    background-position: center;
 }
 .novedades{
     color: $negro;
